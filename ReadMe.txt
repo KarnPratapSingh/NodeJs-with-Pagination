@@ -1,0 +1,1 @@
+- In this project we are creating a simple backend project that utilises pagination techniques.
