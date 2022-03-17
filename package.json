@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_with_pagination",
+  "version": "1.0.0",
+  "description": "Utilisation of pagination technique",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarnPratapSingh/NodeJs-with-Pagination.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarnPratapSingh/NodeJs-with-Pagination/issues"
+  },
+  "homepage": "https://github.com/KarnPratapSingh/NodeJs-with-Pagination#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
